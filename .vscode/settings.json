@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\Dushyant\\.virtualenvs\\leadManager-17TLJL5J\\Scripts\\python.exe",
+    "python.linting.mypyArgs": [
+        "--ignore-missing-imports",
+        "--follow-imports=silent",
+        "--show-column-numbers",
+        "--load-plugins=pylint_django"
+    ],
+    "python.linting.mypyCategorySeverity.note": "Hint",
+    "python.linting.pylintPath": "pylint_django"
+}
